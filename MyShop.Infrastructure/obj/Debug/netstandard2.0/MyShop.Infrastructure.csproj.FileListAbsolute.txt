@@ -1,0 +1,12 @@
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Infrastructure.deps.json
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Infrastructure.dll
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Infrastructure.pdb
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Domain.dll
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\bin\Debug\netstandard2.0\MyShop.Domain.pdb
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.csprojAssemblyReference.cache
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.AssemblyInfoInputs.cache
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.AssemblyInfo.cs
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.csproj.CopyComplete
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.dll
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Infrastructure\obj\Debug\netstandard2.0\MyShop.Infrastructure.pdb

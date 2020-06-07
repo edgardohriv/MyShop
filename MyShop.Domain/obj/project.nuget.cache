@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHbqm870dWa9xZ03KDhh/S+jx2s3ToVipI5hJCwfn+XTPAC2E90yW6/Sza65AMJwTCmC8stZwl1svSMINE0kPw==",
+  "success": true,
+  "projectFilePath": "C:\\PROYECTOS\\PATTERNS\\c-sharp-design-patterns-data-access-patterns\\Completed\\MyShop.Domain\\MyShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

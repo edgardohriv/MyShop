@@ -1,0 +1,9 @@
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.deps.json
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.dll
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.pdb
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csprojAssemblyReference.cache
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfoInputs.cache
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfo.cs
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.dll
+C:\PROYECTOS\PATTERNS\c-sharp-design-patterns-data-access-patterns\Completed\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.pdb
